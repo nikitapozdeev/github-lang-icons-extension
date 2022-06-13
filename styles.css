@@ -1,0 +1,8 @@
+.github-lang-ext-hidden {
+  display: none !important;
+}
+
+.github-lang-ext-icon {
+  display: inline-block;
+  vertical-align: text-bottom;
+}
